@@ -25,4 +25,30 @@ just get the thing into the white port under the weird bar thing, remember that 
 Then put the battery into the weird bar thing.
 
 # Coding with MakeCode Arcade
-MakeCode Arcade supports 3 different languages, a scratch language called __Blocks__ as well as __Python__ and also __Javascript__
+MakeCode Arcade supports 3 different languages, a scratch language called __Blocks__ as well as __Python__ and also __Javascript.__
+
+# Blocks
+Blocks is a simple language, and it runs perfectly on the system. I will make some docs for the Blocks language soon enough.
+
+# Other Languages
+The other 2 languages work just as they normally would. but Blocks is the best one to use.
+
+# System Bugs
+For some reason pressing the restart button makes the system lag so bad that a big program would reach 0 FPS about every 20-30 seconds.
+The system can freeze randomly but is very rare.
+
+# System Errors
+I was confused at first when I saw my first system error, and just about the only one, The 21 Frowny Face.
+This bug is a nightmare because you have to go through HOURS of debugging and optimizing just to fix this error! it occurs when the RAM is full.
+The 21 Frowny Face is truly a Meowbit developer's worst nightmare.
+
+# Extra Controls
+The Meowbit has more controls than those little buttons, yeah, it has a motion sensor! also a light sensor, and some other weird things, but they really managed to cram so much content on to this little board with a screen.
+You can use these controls with an extension called controller.
+
+# Extensions
+Yep, you heard it, extensions! Just click on the extensions button and WOAH is that a GUI for getting extensions!?
+just click on one and boom, you have an extension, I will cover documentation for every useful extension I can find, that will come soon.
+
+# Other Docs
+Sadly there arent anymore docs just yet :(
