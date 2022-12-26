@@ -11,4 +11,4 @@ The coding is simple, no extra money required. just go to https://arcade.makecod
 # Connecting it to your computer
 This is how you import files, which is how you play it.
 First, see those three dots? click on them!
-(https://user-images.githubusercontent.com/74159747/209573996-48b7f6ad-4f95-464d-922d-6bb1ac2847cd.png)
+![Screenshot 2022-12-26 130558](https://user-images.githubusercontent.com/74159747/209574073-aae9140c-754f-44e9-8c76-0342e3f7733c.png)
